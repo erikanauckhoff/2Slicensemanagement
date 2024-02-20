@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="699ce5cc2f648a10c9a958a72799b616" label="License Definition " max_length="40" name="x_880490_2s_licens_license_definition" type="collection">
+        <element label="Allocated" max_length="40" name="allocated" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last updated" max_length="40" name="last_updated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="License name" max_length="40" name="license_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchased" max_length="40" name="purchased" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Roles" max_length="40" name="roles" reference="sys_user_role" type="glide_list"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Tables" max_length="40" name="tables" reference="sys_db_object" type="glide_list"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

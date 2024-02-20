@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="254ee9402fa48a10c9a958a72799b6d1" sys_domain="global" table="x_880490_2s_licens_license_activity" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>ad4ee9402fa48a10c9a958a72799b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>254ee9402fa48a10c9a958a72799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_name</element>
+            <position>2</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>a54ee9402fa48a10c9a958a72799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>days_since_last_activity</element>
+            <position>3</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>294ee9402fa48a10c9a958a72799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>a94ee9402fa48a10c9a958a72799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_activity_date</element>
+            <position>5</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>2d4ee9402fa48a10c9a958a72799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>6</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>ad4ee9402fa48a10c9a958a72799b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:53</sys_created_on>
+            <sys_id>214ee9402fa48a10c9a958a72799b6da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_880490_2s_licens_license_activity" sys_domain="global" view="Default view">254ee9402fa48a10c9a958a72799b6d1</sys_ui_section>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:53</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_880490_2s_licens_license_activity</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 09:00:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>254ee9402fa48a10c9a958a72799b6d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_880490_2s_licens_license_activity</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="2S License Management" source="x_880490_2s_licens">571aed482f648a10c9a958a72799b639</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2S License Management">571aed482f648a10c9a958a72799b639</sys_scope>
+            <sys_update_name>sys_ui_section_254ee9402fa48a10c9a958a72799b6d1</sys_update_name>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 09:00:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

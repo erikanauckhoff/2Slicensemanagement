@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="last_updated" label="Last updated" language="en" table="x_880490_2s_licens_license_definition">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>last_updated</element>
+            <help/>
+            <hint/>
+            <label>Last updated</label>
+            <language>en</language>
+            <name>x_880490_2s_licens_license_definition</name>
+            <plural>Last updated</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>emma.uddin</sys_created_by>
+            <sys_created_on>2024-02-19 08:53:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Last updated</sys_name>
+            <sys_package display_value="2S License Management" source="x_880490_2s_licens">571aed482f648a10c9a958a72799b639</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2S License Management">571aed482f648a10c9a958a72799b639</sys_scope>
+            <sys_update_name>sys_documentation_x_880490_2s_licens_license_definition_last_updated_en</sys_update_name>
+            <sys_updated_by>emma.uddin</sys_updated_by>
+            <sys_updated_on>2024-02-19 08:53:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
